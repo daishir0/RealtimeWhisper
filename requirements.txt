@@ -1,0 +1,8 @@
+openai
+sounddevice
+numpy
+pydub
+tempfile
+paramiko
+soundfile
+datetime
